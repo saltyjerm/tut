@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+added text.
+=======
+added text. added text to the added text.
+>>>>>>> task2
